@@ -25,7 +25,9 @@
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
+		<members>Account.Area_Code__c</members>
 		<members>Account.Date_of_Birth__c</members>
+		<members>Account.Mobile__c</members>
 		<name>CustomField</name>
 	</types>
 	<types>
